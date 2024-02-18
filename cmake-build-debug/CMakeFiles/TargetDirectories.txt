@@ -1,0 +1,3 @@
+C:/Users/nikit/OneDrive/Рабочий стол/lab-13-master/cmake-build-debug/CMakeFiles/dismath.dir
+C:/Users/nikit/OneDrive/Рабочий стол/lab-13-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nikit/OneDrive/Рабочий стол/lab-13-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir

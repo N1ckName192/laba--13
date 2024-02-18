@@ -1,0 +1,25 @@
+# ninja log v5
+10	96	7299573604899596	CMakeFiles/dismath.dir/util.c.obj	b8a614e6dea067b6
+4	118	7299573605039598	CMakeFiles/dismath.dir/bitset/bitset.c.obj	f89fb587ff85011a
+12	119	7299573605089605	CMakeFiles/dismath.dir/unordered_array/unordered_array.c.obj	9184ee67f182402a
+1	120	7299573605119592	CMakeFiles/dismath.dir/bitset/bitset_test.c.obj	207734f6c2694bca
+22	123	7299573605179589	CMakeFiles/dismath.dir/ordered_array/ordered_array_test.c.obj	bdd85f5ec7321953
+15	124	7299573605179589	CMakeFiles/dismath.dir/ordered_array/ordered_array.c.obj	61d4ed0810b06b61
+7	131	7299573605279597	CMakeFiles/dismath.dir/unordered_array/unordered_array_test.c.obj	340f1dfb7564bec6
+19	141	7299573605389586	CMakeFiles/dismath.dir/codeforces/solutions.c.obj	de9da78ee2906694
+8	68	7299574422961782	CMakeFiles/dismath.dir/util.c.obj	b8a614e6dea067b6
+2	80	7299574423121788	CMakeFiles/dismath.dir/bitset/bitset_test.c.obj	207734f6c2694bca
+5	86	7299574423171808	CMakeFiles/dismath.dir/bitset/bitset.c.obj	f89fb587ff85011a
+11	102	7299574423336894	CMakeFiles/dismath.dir/unordered_array/unordered_array_test.c.obj	340f1dfb7564bec6
+14	106	7299574423376895	CMakeFiles/dismath.dir/unordered_array/unordered_array.c.obj	9184ee67f182402a
+17	112	7299574423426893	CMakeFiles/dismath.dir/ordered_array/ordered_array_test.c.obj	bdd85f5ec7321953
+24	112	7299574423426893	CMakeFiles/dismath.dir/ordered_array/ordered_array.c.obj	61d4ed0810b06b61
+21	124	7299574423556886	CMakeFiles/dismath.dir/codeforces/solutions.c.obj	de9da78ee2906694
+14	71	7299574616449076	CMakeFiles/dismath.dir/util.c.obj	b8a614e6dea067b6
+2	73	7299574616469080	CMakeFiles/dismath.dir/bitset/bitset_test.c.obj	207734f6c2694bca
+6	87	7299574616599069	CMakeFiles/dismath.dir/bitset/bitset.c.obj	f89fb587ff85011a
+11	99	7299574616719069	CMakeFiles/dismath.dir/unordered_array/unordered_array_test.c.obj	340f1dfb7564bec6
+8	101	7299574616739077	CMakeFiles/dismath.dir/unordered_array/unordered_array.c.obj	9184ee67f182402a
+16	104	7299574616769082	CMakeFiles/dismath.dir/ordered_array/ordered_array.c.obj	61d4ed0810b06b61
+22	106	7299574616799071	CMakeFiles/dismath.dir/ordered_array/ordered_array_test.c.obj	bdd85f5ec7321953
+19	121	7299574616949062	CMakeFiles/dismath.dir/codeforces/solutions.c.obj	de9da78ee2906694
